@@ -1,0 +1,166 @@
+{
+  "seller": [
+    {
+      "id": "718e",
+      "name": "Yogita",
+      "Password": "123456",
+      "email": "yogita@test.com"
+    },
+    {
+      "id": "9f7f",
+      "name": "Reyaansh",
+      "Password": "aaa",
+      "email": "Reyaansh@test.com"
+    },
+    {
+      "id": "ca7e",
+      "name": "aaa",
+      "Password": "123456",
+      "email": "aaa@test.com"
+    },
+    {
+      "id": "d9a5",
+      "observe": "response"
+    },
+    {
+      "id": "8fce",
+      "name": "Vaishali",
+      "password": "123456",
+      "email": "vaishali@seller.com"
+    },
+    {
+      "name": "Reyaansh",
+      "password": "123456",
+      "email": "Reyaansh@test.com",
+      "id": "28Kup3z"
+    },
+    {
+      "name": "ABC",
+      "email": "abc@seller.com",
+      "password": 123456,
+      "id": "4qpMCU0"
+    },
+    {
+      "name": "Reyaansh",
+      "password": "123456",
+      "email": "Reyaansh@test.com",
+      "id": "BTPCqJn"
+    },
+    {
+      "name": "Yogita",
+      "password": "123456",
+      "email": "yogita@test.com",
+      "id": "1LuPRtS"
+    },
+    {
+      "name": "Reyaansh",
+      "password": "123456",
+      "email": "Reyaansh@test.com",
+      "id": "6TUXDRj"
+    },
+    {
+      "name": "Reyaansh",
+      "password": "123456",
+      "email": "Reyaansh@test.com",
+      "id": "9w0wYfG"
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung 40",
+      "price": "35000",
+      "color": "Black",
+      "category": "mobile",
+      "description": "Good Mobile",
+      "image": "https://cdn.movertix.com/media/catalog/product/s/a/samsung-galaxy-a34-5g-dual-sim-awesome-graphite-128gb-and-6gb-ram-sm-a346b-ds.jpg",
+      "id": "0b87"
+    },
+    {
+      "id": "900e",
+      "name": "Hp Laptop",
+      "price": "50000",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Good Laptop",
+      "image": "https://www.hp.com/gb-en/shop/html/Merch/Images/c05512731_1750x1285.jpg"
+    },
+    {
+      "id": "a3b0",
+      "name": "iPhone",
+      "price": "100000",
+      "color": "Blue",
+      "category": "mobile",
+      "description": "Good product and Look Nice",
+      "image": "https://static.iphoned.nl/orca/products/23027/apple-iphone-16.png"
+    },
+    {
+      "name": "Dell",
+      "price": "80000",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "Dell Laptop",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/inspiron/15-3520-non-touch/in3520nt-cnb-00060rb055-bk.psd?fmt=pjpg&pscan=auto&scl=1&wid=4396&hei=3212&qlt=100,1&resMode=sharp2&size=4396,3212&chrss=full&imwidth=5000",
+      "id": "6a08"
+    },
+    {
+      "id": "8ab2",
+      "name": "Apple",
+      "price": "150000",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "Excellent Product",
+      "image": "https://images6.alphacoders.com/991/991781.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "Reyaansh",
+      "email": "Reyaansh@test.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Nikhil",
+      "email": "nikhil@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "Vaishali",
+      "email": "vaishali@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "sonal",
+      "email": "sonal@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Narkhede",
+      "email": "narkhede@user.com",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "Reyaansh@test.com",
+      "address": "Zug, Switzerland",
+      "contact": "9999",
+      "totalPrice": 250100,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "vaishali@seller.com",
+      "address": "Zug, Switzerland",
+      "contact": "9999",
+      "totalPrice": 35100,
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
